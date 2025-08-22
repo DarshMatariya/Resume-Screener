@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 streamlit
 google-generativeai
 python-dotenv
 PyMuPDF
-=======
-streamlit>=1.20.0
-python-dotenv>=1.0.0
-pillow>=10.0.0
-PyMuPDF>=1.22.0
-google-generative-ai>=0.6.2
->>>>>>> 4d53b840e9a182ba352c8be55d39ecaf209719a0
