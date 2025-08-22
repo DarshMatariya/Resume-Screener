@@ -32,13 +32,19 @@ Try the application live on Streamlit Cloud:
  ```
 
 2. Install dependencies:
-- pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 3. Create a `.env` file based on the `.env.example` (if available) or manually add your Google API key:
-- GOOGLE_API_KEY="your_google_api_key_here"
+```
+GOOGLE_API_KEY="your_google_api_key_here"
+```
 
-4. Run the Streamlit app locally:
-- streamlit run main.py
+5. Run the Streamlit app locally:
+```
+streamlit run main.py
+```
 
 
 ## Usage
