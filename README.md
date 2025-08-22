@@ -26,8 +26,8 @@ Try the application live on Streamlit Cloud:
 ## Setup and Installation
 
 1. Clone the repository:
-- git clone https://github.com/DarshMatariya/Resume-Screener.git
-- cd Resume-Screener
+```git clone https://github.com/DarshMatariya/Resume-Screener.git```
+```cd Resume-Screener```
 
 2. Install dependencies:
 - pip install -r requirements.txt
